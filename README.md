@@ -14,8 +14,8 @@ Bu Streamlit uygulaması, birden fazla Excel (XLSX) dosyasını aynı anda CSV f
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/[kullanıcı-adınız]/excel-to-csv-converter.git
-cd excel-to-csv-converter
+git clone https://github.com/EmirErdem/xlxstocsv.git
+cd xlxstocsv
 ```
 
 2. Gerekli paketleri yükleyin:
